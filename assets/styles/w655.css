@@ -1,0 +1,117 @@
+/*--------------------------------------------------------
+---------------------HEADER-------------------------
+--------------------------------------------------------*/
+header{
+	padding: 100px 0;	
+}
+header img{
+	width: 175px;	
+}
+header h1{
+	margin: auto;
+	max-width: 460px;
+	font-size: 4rem;
+	line-height: 4.2rem;
+}
+
+header .header__subtitle{
+	margin: auto;	
+	max-width: 380px;
+	font-size: 2rem;
+	line-height: 2.4rem;
+}
+
+header .header__button i{
+	font-size: 1.8rem;	
+}
+
+/*--------------------------------------------------------
+---------------------BENEFITS-------------------------
+--------------------------------------------------------*/
+
+.benefits__title{
+	margin: auto;
+	max-width: 470px;
+	padding: 20px 0;	
+	font-size: 4rem;
+	line-height: 4.2rem;
+}
+
+.benefits__subtitle{
+	margin: auto;
+	max-width: 470px;
+	padding-bottom: 25px;
+	font-size: 2rem;
+	line-height: 2.4rem;
+}
+
+/*--------------------------------------------------------
+---------------------IMAGE-------------------------
+--------------------------------------------------------*/
+.image p{
+	line-height: 200px;
+	font-size: 4rem;
+}
+/*--------------------------------------------------------
+---------------------PLANS-------------------------
+--------------------------------------------------------*/
+.plans{
+	padding: 0;
+}
+
+.plans__title{
+	max-width: 460px;
+	font-size: 4rem;
+	line-height: 4.2rem;
+}
+
+.plans__subtitle{
+	max-width: 460px;
+	font-size: 2rem;
+	line-height: 2.4rem;
+}
+
+.plans__cards{
+	display: flex;
+	justify-content: center;
+	overflow-x: visible;
+}
+
+/*--------------------------------------------------------
+---------------------FAQ-------------------------
+--------------------------------------------------------*/
+.faq{
+	max-width: 600px;
+}
+
+.faq h2{
+	font-size: 4rem;
+	line-height: 4.2rem;
+}
+
+.faq__container__question h3,.faq__container__question i,.faq__container p{
+	font-size: 2rem;
+	line-height: 2.4rem;
+}
+/*--------------------------------------------------------
+---------------------FOOTER-------------------------
+--------------------------------------------------------*/
+.footer__links a{
+	padding:15px 0;
+	font-size: 2rem;
+}
+
+footer img{
+	width: 16rem;
+}
+
+
+
+
+
+
+
+
+
+
+

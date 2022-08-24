@@ -1,0 +1,33 @@
+.quotation__table{
+	display: flex;
+	justify-content: center;
+	overflow-x: visible;
+}
+
+.quotation__title, .quotation__subtitle{
+	margin: auto;
+	max-width: 480px;
+}
+
+.quotation__title{
+	line-height: 4.2rem;
+	font-size: 4rem;
+}
+.quotation__subtitle{
+	line-height: 2.4rem;
+	font-size: 2rem;
+}
+
+.quotation__table>i{
+	display: none;
+}
+
+.quotation__table--orange, .quotation__table--blue{
+	margin:50px 15px;
+}
+
+
+
+
+
+
